@@ -1,2 +1,12 @@
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PHP Hello </title>
+</head>
+<body>
+</body>
 <? php
-	echo 'Hello World';
+	<p>echo 'Hello World';<p>
+?>
+</html>
